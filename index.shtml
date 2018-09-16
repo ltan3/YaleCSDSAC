@@ -1,57 +1,59 @@
-	<!--#include virtual="/header.shtml"-->
+		<!--#include virtual="/header.shtml"-->
 
 <head>
 <title>Yale CS DSAC | Yale Computer Science Department Student Advisory Committee</title>
 </head>
 
 <body>
-<div class="contenttitle">
-  DSAC
-</div>
+	<h1>
+	  Yale Computer Science DSAC
+	</h1>
 
-<p>
-<b>
-Check out the <a href="https://yaledsac.wikia.com/wiki/Yale_DSAC_Wiki" target="_blank">Yale DSAC Wiki</a> for your source on everything Yale CS-related!
-</b>
-</p>
+	<p>
+		<b>
+		Check out the <a href="https://yaledsac.wikia.com/wiki/Yale_DSAC_Wiki" target="_blank">Yale DSAC Wiki</a> for your source on everything Yale CS-related!
+		</b>
+	</p>
 
-<p>
-  DSAC is the Computer Science <u>D</u>epartmental <u>S</u>tudent
-  <u>A</u>dvisory <u>C</u>ommittee. DSAC consists of five
-  undergraduate CS majors who are appointed or elected by popular vote each year. For the 
-  2018-2019 academic year, the committee consists of:
+	<p>
+		DSAC is the Computer Science <u>D</u>epartmental <u>S</u>tudent
+		<u>A</u>dvisory <u>C</u>ommittee. DSAC consists of five
+		undergraduate CS majors who are appointed or elected by popular vote each year. For the 
+		2018-2019 academic year, the committee consists of:
 
-  <ul>
-	<li>Jessica Ambrosio, JE '19 (she/her/hers) </li>
-	<li><a href='http://www.echenran.xyz/' target="_blank">Emmett (ECR) Chen-Ran</a>, DC '20 (he/him/his) </li>
-	<li>Annie Chen, ES '19 (she/her/hers) </li>
-	<li>James Pastan, DC '20 (he/him/his) </li>
-	<li>Ke Yuxuan, BR '19 (he/him/his) </li>
-  </ul>   
-</p>
-<p>
-  Here is the official 
-  <a href="/dsac/charter.shtml">DSAC Charter</a> and a (soon to be updated) <a
-  href="/dsac/photo.shtml">DSAC photo album</a>.
-</p>
-<p>
-  Our primary task is to represent Yale CS students to the faculty and administration, meeting with the DUS and Department Chair
-  several times a year.
-</p>
-<p>
-	Some of our other initiatives have included hosting social+food events in the Zoo, providing funding for
-	side projects and hackathon travel, and hosting DSAC lunches with professors.
-</p>
-<p>
-  Feel free to come to us with any concerns or questions that you might have as a CS
-  student; you can either find one of us in person or email us at <a href="mailto:dsac@cs.yale.edu">dsac@cs.yale.edu</a>!
-</p>
+		<ul>
+			<li>Jessica Ambrosio, JE '19 (she/her/hers) </li>
+			<li>
+				<a href='http://www.echenran.xyz/' target="_blank">Emmett (ECR) Chen-Ran</a>, DC '20 (he/him/his)
+			</li>
+			<li>Annie Chen, ES '19 (she/her/hers) </li>
+			<li>James Pastan, DC '20 (he/him/his) </li>
+			<li>Ke Yuxuan, BR '19 (he/him/his) </li>
+		</ul>   
+	</p>
+	<p>
+			Here is the official 
+			<a href="/dsac/charter.shtml">DSAC Charter</a> and a (soon to be updated) <a
+			href="/dsac/photo.shtml">DSAC photo album</a>.
+	</p>
+	<p>
+			Our primary task is to represent Yale CS students to the faculty and administration, meeting with the DUS and Department Chair
+			several times a year.
+	</p>
+	<p>
+			Some of our other initiatives have included hosting social+food events in the Zoo, providing funding for
+			side projects and hackathon travel, and hosting DSAC lunches with professors.
+	</p>
+	<p>
+			Feel free to come to us with any concerns or questions that you might have as a CS
+			student; you can either find one of us in person or email us at <a href="mailto:dsac@cs.yale.edu">dsac@cs.yale.edu</a>!
+	</p>
 
-<p>
-<b>Send us your curriculum suggestions anonymously here: <a href="https://goo.gl/forms/xYAUHpJOq1yq0IAA2">https://goo.gl/forms/xYAUHpJOq1yq0IAA2</a></b>
-</p>
+	<p>
+		<b>
+			Send us your curriculum suggestions anonymously here: <a href="https://goo.gl/forms/xYAUHpJOq1yq0IAA2">https://goo.gl/forms/xYAUHpJOq1yq0IAA2</a>
+		</b>
+	</p>
 
-
-<!--#include virtual="/footer.shtml"-->
+	<!--#include virtual="/footer.shtml"-->
 </body>
-
