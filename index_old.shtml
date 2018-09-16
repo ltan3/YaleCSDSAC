@@ -1,0 +1,41 @@
+	<!--#include virtual="/header.shtml"-->
+
+<div class="contenttitle">
+  DSAC
+</div>
+
+<p>
+  DSAC is the Computer Science <u>D</u>epartmental <u>S</u>tudent
+  <u>A</u>dvisory <u>C</u>ommittee. DSAC consists of five
+  undergraduate CS majors who are elected by popular vote each year.
+
+  <ul>
+    <li>Ahmet Aktay         (BR '10)
+    <li>Christian Csar      (SI '10)
+    <li>J. Alex Johnson     (BR '09)
+    <li>Justin Kosslyn      (ES '09)
+    <li>May Liu             (ES '10)
+    <li>Scott Snyder        (JE '10)
+  </ul>   
+</p>
+<p>
+  Here is the official 
+  <a href="/dsac/charter.shtml">DSAC Charter</a> and very outdated <a
+  href="/dsac/photo.shtml">DSAC photo album</a>.
+</p>
+<p>
+  Our primary task is to make sure the Zoo is a happy and functional
+  place. To this end, we provide documentation and tips and techniques
+  through our <a href="http://zoo.cs.yale.edu/">web server</a>.
+</p>
+<p>
+  In addition to making sure that the machines in the Zoo are
+  functioning properly and that you don't have any problems using the
+  Zoo facility, we are also involved in the CS Department. Feel free to
+  come to us with any concerns or questions that you might have as a CS
+  major.
+</p>
+
+<!--#include virtual="/footer.shtml"-->
+
+

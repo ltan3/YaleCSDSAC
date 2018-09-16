@@ -1,0 +1,150 @@
+<!--#include virtual="/header.shtml"-->
+
+<div class="contenttitle">
+  <table border="0" width=100%>
+    <tr><td><center>DSAC Photo Album</center></td></tr>
+ </table>
+</div>
+
+<div class="itemcontent">
+  <table width=100% border="0">
+    <tr>
+      <td width="50%" align="left">
+        <div class="subtext">
+          DSAC 2017-2018
+        </div>
+      </td>
+      <td width="50%" align="right">
+        <div class="subtext">
+          February 18, 2018
+        </div>
+      </td>
+    </tr>
+ </table>
+
+<center>
+<p><img src="dsac.2017-2018.jpg" width=500></p>
+<!-- <i>caption here</i> -->
+</center>
+
+
+  <ul>
+    <li>Anton Xue, TC '19 (he/him/his)
+    <li><a href='http://www.echenran.xyz/' target="_blank">Emmett Chen-Ran</a>, DC '20 (he/him/his)
+    <li>Emon Datta, BF '17 (she/her/hers)
+    <li>Jayshree Sarathy, ES '18 (she/her/hers)
+    <li>Shanelle Roman, JE '19 (she/her/hers)
+  </ul>
+
+<div class="itemcontent">
+  <table width=100% border="0">
+    <tr>
+      <td width="50%" align="left">
+        <div class="subtext">
+          DSAC 2004-2005
+        </div>
+      </td>
+      <td width="50%" align="right">
+        <div class="subtext">
+          May 4, 2004
+        </div>
+      </td>
+    </tr>
+ </table>
+
+<center>
+<p><img src="dsac.2004-2005.jpg" width=500 height=260></p>
+<!-- <i>caption here</i> -->
+</center>
+
+
+  <ul>
+    <li><a href="http://pantheon.yale.edu/~acd33/">Anthony Di Franco</a>
+       (DSAC '04-'05, BR '05)
+    <li><a href="http://pantheon.yale.edu/~eds25">Emmett Shear</a>
+      (DSAC '04-'05, DC '05)
+    <li><a
+  href="http://www.seedwiki.com/page.cfm?doc=Reuben%20Grinberg&wikiid=3747&wpid=134207">Reuben Grinberg</a>
+      (DSAC '04-'05, TC '05)
+    <li><a href="http://pantheon.yale.edu/~jct29/">James Clifton Terry</a>
+       (DSAC '03-'04, DSAC '04-'05, SM '05)
+    <li><a href="http://pantheon.yale.edu/~jjy8">Jamie Yoo</a>
+       (DSAC '04-'05, BR '05)
+  </ul>
+
+<br/></div><div class="itemcontent">
+
+	<table width="100%" border="0">
+		<tr>
+			<td width="50%" align="left">
+				<div class="subtext">
+                                       DSAC 2003-2004
+				</div>
+			</td>
+			<td width="50%" align="right">
+				<div class="subtext">
+					May 4, 2004
+				</div>
+			</td>
+		</tr>
+	</table>
+
+<center>
+<p><img src="dsac.2003-2004.jpg" width=500 height=260></p>
+<!-- <i>caption here</i> -->
+</center>
+
+  <ul>
+    <li><a href="http://pantheon.yale.edu/~awp9">Andrew Petro</a>
+      (DSAC '03-'04, BR '04)
+    <li>
+       <a href="http://zoo.cs.yale.edu/~cej9/">Collin</a><a
+      href="http://www.seattlekidneycenter.org/"> </a>
+      <a href="http://www.collinjackson.com/">Jackson</a>
+       (DSAC '03-'04, DC '04)
+    <li><a href="http://pantheon.yale.edu/~jct29/">James Clifton Terry</a>
+       (DSAC '03-'04, DSAC '04-'05, SM '05)
+    <li><a href="http://michaelguo.com/">Mike Guo</a>
+      (DSAC 03-04, SY '04)
+    <li><a href="http://zoo.cs.yale.edu/~mjb63">Mike Bell</a>
+      (DSAC 03-04, SM '04, not shown)
+  </ul>
+
+<br/></div><div class="itemcontent">
+
+	<table width="100%" border="0">
+		<tr>
+			<td width="50%" align="left">
+				<div class="subtext">
+                                       DSAC 2003-2004 farewell party
+				</div>
+			</td>
+			<td width="50%" align="right">
+				<div class="subtext">
+					May 4, 2004
+				</div>
+			</td>
+		</tr>
+	</table>
+
+<center>
+<p><img src="dsac.2003-2005.jpg" width=500 height=260></p>
+<!-- <i>caption here</i> -->
+</center>
+
+    <ul>
+        <li>Reuben Grinberg
+        <li>Jamie Yoo
+        <li>Collin Jackson
+        <li>Anthony Di Franco
+        <li>James Clifton Terry
+        <li>Michael Guo
+        <li>Andrew Petro
+        <li>Emmett Shear
+    </blockquote>
+
+</div>
+
+<!--#include virtual="/footer.shtml"-->
+
+
