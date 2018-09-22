@@ -22,7 +22,7 @@
 			<ul>
 				<li>Jessica Ambrosio, JE '19 (she/her/hers) </li>
 				<li>
-					<a href='http://www.echenran.xyz/' target="_blank">Emmett (ECR) Chen-Ran</a>, DC '20 (he/him/his)
+					<a target="_blank" href='http://www.echenran.xyz/' target="_blank">Emmett (ECR) Chen-Ran</a>, DC '20 (he/him/his)
 				</li>
 				<li>Annie Chen, ES '19 (she/her/hers) </li>
 				<li>James Pastan, DC '20 (he/him/his) </li>
@@ -31,8 +31,7 @@
 		</p>
 		<p>
 			Here is the official 
-			<a href="/dsac/charter.shtml">DSAC Charter</a> and a (soon to be updated) <a
-			href="/dsac/photo.shtml">DSAC photo album</a>.
+			<a target="_blank" href="/dsac/charter.shtml">DSAC Charter</a> and a <a target="_blank" href="/dsac/photo.shtml">DSAC photo album</a>.
 		</p>
 		<p>
 			Our primary task is to represent Yale CS students to the faculty and administration, meeting with the DUS and Department Chair several times a year.
@@ -61,9 +60,9 @@
 			<img src="five_steps_to_major.png"></img>
 		</p>
 
-		<h3 id="academics">
+		<h2 id="academics">
 			Academics and Zoo Guides
-		</h3>
+		</h2>
 		<ul>
 			<li>
 				The <a href="http://dus.cs.yale.edu/" target="_blank">Director of Undergraduate Studies Page</a> contains information about advising, major requirements, and more.
@@ -76,33 +75,73 @@
 			</li>
 		</ul>
 
-		<h3 id="clubs">
+		<h2 id="clubs">
 			Computer Science Affiliated Clubs
-		</h3>
+		</h2>
 
-			<p>Code4Good: We work with local nonprofits and public agencies to pinpoint their most pressing technical needs and scope viable, sustainable student projects that address them. Additionally, we also want to change the way that techies think of the public sphere, so we’ll be holding talks, workshops, and other events aimed at doing this.</p>
+			<h4>Code4Good</h4>
+			<p>We work with local nonprofits and public agencies to pinpoint their most pressing technical needs and scope viable, sustainable student projects that address them. Additionally, we also want to change the way that techies think of the public sphere, so we’ll be holding talks, workshops, and other events aimed at doing this.</p>
+			<ul>
+				<li>Website: <a target="_blank" href="http://yalecode4good.org/">yalecode4good.org</a></li>
+			</ul>
 
-			<p>Code Haven: Code Haven is a Yale undergraduate student organization that teaches weekly computing lessons at middle schools, engaging students with online lessons, unplugged activities and class wide demonstrations. Code Haven also runs events related to computer science education to promote its mission outside the classroom. codehavenyale.com</p>
+			<h4>Code Haven</h4>
+			<p>Code Haven is a Yale undergraduate student organization that teaches weekly computing lessons at middle schools, engaging students with online lessons, unplugged activities and class wide demonstrations. Code Haven also runs events related to computer science education to promote its mission outside the classroom.</p>
+			<ul>
+				<li>Website: <a target="_blank" href="http://codehavenyale.com">codehavenyale.com</a></li>
+			</ul>
 
-			<p>Float: Float is Yale’s undergraduate society for women and gender minorities in computer science. We organize events aimed at increasing the community within the computer science major as well as offer professional development opportunities with corporate partners. Another aspect of our organization is our technical workshops which aim to introduce members of the CS community to interesting new technologies and projects.</p>
+			<h4>Float</h4>
+			<p>Float is Yale’s undergraduate society for women and gender minorities in computer science. We organize events aimed at increasing the community within the computer science major as well as offer professional development opportunities with corporate partners. Another aspect of our organization is our technical workshops which aim to introduce members of the CS community to interesting new technologies and projects.</p>
+			<ul>
+				<li>Website: <a target="_blank" href="http://yalewics.com/">yalewics.com</a></li>
+				<li>Email: <a href="mailto: floatyale@gmail.com">floatyale@gmail.com</a></li>
+			</ul>
 
+			<h4>Sandbox</h4>
+			<p>We’re team Sandbox, the club that ideates and implements student-created, student-run, technical solutions to real-world problems. By the end of the Spring 2019 semester, we aim to have Sandbox built and launched five beta-stage web or native applications, each addressing a well-defined issue. We’ll be learning and using a stack of new and hot technologies: React, Firebase, Redux, Git, Sketch, etc. We’ll also host industry speakers and pitch events.</p>
 
-			<p>Sandbox: We’re team Sandbox, the club that ideates and implements student-created, student-run, technical solutions to real-world problems. By the end of the Spring 2019 semester, we aim to have Sandbox built and launched five beta-stage web or native applications, each addressing a well-defined issue. We’ll be learning and using a stack of new and hot technologies: React, Firebase, Redux, Git, Sketch, etc. We’ll also host industry speakers and pitch events.</p>
+			<h4>SheCode</h4>
+			<p>SheCode holds 3-4 weekend sessions per semester to teach New Haven middle and high school girls to code (Scratch, HTML/CSS, Python), inspiring them to explore their interests in computer science and STEM and creating a collaborative learning environment for new programmers with Yale CS majors serving as mentors and TAs.</p>
+			<ul>
+				<li>Website: <a target="_blank" href="https://shecodeatyale.wordpress.com/">shecodeatyale.wordpress.com</a></li>
+			</ul>
 
-			<p>SheCode: SheCode (https://shecodeatyale.wordpress.com/) holds 3-4 weekend sessions per semester to teach New Haven middle and high school girls to code (Scratch, HTML/CSS, Python), inspiring them to explore their interests in computer science and STEM and creating a collaborative learning environment for new programmers with Yale CS majors serving as mentors and TAs.</p>
+			<h4>Thinkspaces</h4>
+			<p>Empowers creators on campus. Provides a web-platform for people from disparate disciplines to connect, collaborate and build projects. Also hosts offline events like workshops and talks to facilitate great ideas.</p>
+			<ul>
+				<li>Facebook: <a target="_blank" href="https://www.facebook.com/thinkspacesapp">facebook.com/thinkspacesapp</a></li>
+				<li>Website: <a target="_blank" href="https://thinkspaces.org/">thinkspaces.org</a></li>
+				<li>Email: <a href="mailto:teamthinkspace@gmail.com">teamthinkspace@gmail.com</a></li>
+			</ul>
 
-			<p>Thinkspaces: Empowers creators on campus. Provides a web-platform for people from disparate disciplines to connect, collaborate and build projects. Also hosts offline events like workshops and talks to facilitate great ideas.</p>
+			<h4>Yale Computer Society</h4>
+			<p>The Yale Computer Society works on several projects throughout the year to improve the experience of students interested in technology and entrepreneurship at Yale. Typically we host talks, student or industry run workshops, and also hold career related events.</p>
 
-			<p>Yale Computer Society: The Yale Computer Society works on several projects throughout the year to improve the experience of students interested in technology and entrepreneurship at Yale. Typically we host talks, student or industry run workshops, and also hold career related events.</p>
+			<h4>Yale Entrepreneurial Society</h4>
+			<p>We organize speaker events, workshop series, trips and treks to NYC and Boston, mentorship program, and elevator pitch competitions to connect entrepreneurial-minded students with successful co-founders of startups and people in venture capital funds.</p>
 
-			<p>Yale Entrepreneurial Society: We organize speaker events, workshop series, trips and treks to NYC and Boston, mentorship program, and elevator pitch competitions to connect entrepreneurial-minded students with successful co-founders of startups and people in venture capital funds.</p>
+			<h4>YUAA</h4>
+			<p>The Yale Undergraduate Aerospace Association promotes and advances aerospace engineering through collaboration, innovation, and outreach. YUAA cultivates leaders who meet challenges with discipline and creativity.</p>
 
-			<p>YUAA: The Yale Undergraduate Aerospace Association promotes and advances aerospace engineering through collaboration, innovation, and outreach. YUAA cultivates leaders who meet challenges with discipline and creativity.</p>
+			<h4>Yale Undergraduate Intelligent Vehicles</h4>
+			<p>Yale InVe aims to engage and inspire talented Yale engineers through exciting autonomous unmanned vehicle competitions. From autonomous ground vehicles to robotic sailboats, members cultivate software, electrical, and mechanical skills while designing and implementing competitive systems.</p>
 
-			<p>Yale Undergraduate Intelligent Vehicles: Yale InVe aims to engage and inspire talented Yale engineers through exciting autonomous unmanned vehicle competitions. From autonomous ground vehicles to robotic sailboats, members cultivate software, electrical, and mechanical skills while designing and implementing competitive systems.</p>
+			<h4>Yale Undergraduate Society of Women Engineers</h4>
+			<p>SWE is an organization dedicated to creating a space for women and gender minorities in Yale's engineering department. Between our National Chapter, connection with the graduate SWE chapter, and other professional development and community opportunities, we strive to make engineering a welcoming place for all. Every year, we attend the National SWE conference which is the world’s largest conference for women in engineering.</p>
+			<ul>
+				<li>Website: <a target="_blank" href="http://yaleswe.com">yaleswe.com</a></li>
+				<li>Email: <a href="mailto:sweyale@gmail.com">sweyale@gmail.com</a></li>
+			</ul>
 
-			<p>Yale Undergraduate Society of Engineers: SWE is an organization dedicated to creating a space for women and gender minorities in Yale's engineering department. Between our National Chapter, connection with the graduate SWE chapter, and other professional development and community opportunities, we strive to make engineering a welcoming place for all. Every year, we attend the National SWE conference which is the world’s largest conference for women in engineering.</p>
+			<h4>Hack Mental Health</h4>
+			<p>Our mission is to foster the leading community of mental health advocates and technologists and enable them to innovate and advance mental health care through technology. Hosting a mental health hackathon February 22-24, 2019.</p>
+			<ul>
+				<li>Website: <a target="_blank" href="https://www.hackmentalhealth.care/about-yale/">hackmentalhealth.care/about-yale/</a></li>
+				<li>Email: <a href="mailto:anthony.xu@yale.edu">anthony.xu@yale.edu</a></li>
+			</ul>
 	</div>
+
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.1.1/tocbot.min.js"></script>
 	<script type="text/javascript">
 		tocbot.init({
