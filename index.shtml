@@ -3,98 +3,121 @@
 <head>
 	<title>Yale CS DSAC | Yale Computer Science Department Student Advisory Committee</title>
   <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.1.1/tocbot.css">
 </head>
 
 <body>
 	<h1>
 	  Yale Computer Science DSAC
 	</h1>
+	<div class="tocdiv">
+		<nav class="toc toc-right js-toc">
+		</nav>
+	</div>
+	<div class="content js-toc-content">
+		<p>
+			DSAC is the Computer Science <u>D</u>epartmental <u>S</u>tudent <u>A</u>dvisory <u>C</u>ommittee.
 
-	<p>
-		DSAC is the Computer Science <u>D</u>epartmental <u>S</u>tudent <u>A</u>dvisory <u>C</u>ommittee. 
-
-		DSAC consists of five undergraduate CS majors who are appointed or elected by popular vote each year. For the 2018-2019 academic year, the committee is:
-		<ul>
-			<li>Jessica Ambrosio, JE '19 (she/her/hers) </li>
-			<li>
-				<a href='http://www.echenran.xyz/' target="_blank">Emmett (ECR) Chen-Ran</a>, DC '20 (he/him/his)
-			</li>
-			<li>Annie Chen, ES '19 (she/her/hers) </li>
-			<li>James Pastan, DC '20 (he/him/his) </li>
-			<li>Ke Yuxuan, BR '19 (he/him/his) </li>
-		</ul>   
-	</p>
-	<p>
+			DSAC consists of five undergraduate CS majors who are appointed or elected by popular vote each year. For the 2018-2019 academic year, the committee is:
+			<ul>
+				<li>Jessica Ambrosio, JE '19 (she/her/hers) </li>
+				<li>
+					<a href='http://www.echenran.xyz/' target="_blank">Emmett (ECR) Chen-Ran</a>, DC '20 (he/him/his)
+				</li>
+				<li>Annie Chen, ES '19 (she/her/hers) </li>
+				<li>James Pastan, DC '20 (he/him/his) </li>
+				<li>Ke Yuxuan, BR '19 (he/him/his) </li>
+			</ul>   
+		</p>
+		<p>
 			Here is the official 
 			<a href="/dsac/charter.shtml">DSAC Charter</a> and a (soon to be updated) <a
 			href="/dsac/photo.shtml">DSAC photo album</a>.
-	</p>
-	<p>
+		</p>
+		<p>
 			Our primary task is to represent Yale CS students to the faculty and administration, meeting with the DUS and Department Chair several times a year.
-	</p>
-	<p>
-		Feel free to come to us with any concerns or questions that you might have as a CS student; you can email us at <a href="mailto:dsac@cs.yale.edu">dsac@cs.yale.edu</a>, or <a href="https://docs.google.com/forms/d/e/1FAIpQLSdAeX-PNz_AauQR9A03W5CgWtMHdJ4Ecq4WHlx0wr2Pi8XgPQ/viewform?usp=sf_link">sign up for a coffee chat</a> (the coffee's on us!).
+		</p>
+		<h2 id="feedback">
+			Feedback
+		</h2>
+		<p>
+			Feel free to come to us with any concerns or questions that you might have as a CS student; you can email us at <a href="mailto:dsac@cs.yale.edu">dsac@cs.yale.edu</a>, or <a href="https://docs.google.com/forms/d/e/1FAIpQLSdAeX-PNz_AauQR9A03W5CgWtMHdJ4Ecq4WHlx0wr2Pi8XgPQ/viewform?usp=sf_link">sign up for a coffee chat</a> (the coffee's on us!).
 
-	</p>
-	<p>
-		We are currently collecting feedback on how we can improve the Zoo Facilities. Fill out the form <a href="https://docs.google.com/forms/d/e/1FAIpQLScPb_MKAwDKOduQMg0oKBZ9Rrr5JyyvKyKhZKMoNFBr2Q5ioA/viewform">here!</a>
-	</p>
+		</p>
+		<p>
+			We are currently collecting feedback on how we can improve the Zoo Facilities. Fill out the form <a href="https://docs.google.com/forms/d/e/1FAIpQLScPb_MKAwDKOduQMg0oKBZ9Rrr5JyyvKyKhZKMoNFBr2Q5ioA/viewform">here!</a>
+		</p>
 
-	<h2>
-		Resources
-	</h2>
+		<h2 id="resources">
+			Resources
+		</h2>
+		<p>
+			Check out the <a href="https://yaledsac.wikia.com/wiki/Yale_DSAC_Wiki" target="_blank">Yale DSAC Wiki</a> for your source on everything Yale CS-related!
+		</p>
 
-	<p>
-		Check out the <a href="https://yaledsac.wikia.com/wiki/Yale_DSAC_Wiki" target="_blank">Yale DSAC Wiki</a> for your source on everything Yale CS-related!
-	</p>
+		<p>
+			Thinking about majoring in computer science? Here's a handy list of things you should do.
 
-	<p>
-		Thinking about majoring in computer science? Here's a handy list of things you should do.
+			<img src="five_steps_to_major.png"></img>
+		</p>
 
-		<img src="five_steps_to_major.png"></img>
-	</p>
+		<h3 id="academics">
+			Academics and Zoo Guides
+		</h3>
+		<ul>
+			<li>
+				The <a href="http://dus.cs.yale.edu/" target="_blank">Director of Undergraduate Studies Page</a> contains information about advising, major requirements, and more.
+			</li>
+			<li>
+				A cheat sheet written by former 223 ULAs about <a href="https://docs.google.com/document/d/1MLiljDRKx8JcFyHccvTlpng0H3wb4aATxeJq9lDSXoE/edit">Unix and the Zoo</a>
+			</li>
+			<li>
+				A cheat sheet written by former 223 ULAs about <a href="https://docs.google.com/document/d/173NNZNYXMC0bJuE2wzYOwsRK-OK3hcromkDOgpowt-I/edit">Using SFTP with Sublime Text</a>
+			</li>
+		</ul>
 
-	<h3>
-		Academics and Zoo Guides
-	</h3>
-	<ul>
-		<li>
-			The <a href="http://dus.cs.yale.edu/" target="_blank">Director of Undergraduate Studies Page</a> contains information about advising, major requirements, and more.
-		</li>
-		<li>
-			A cheat sheet written by former 223 ULAs about <a href="https://docs.google.com/document/d/1MLiljDRKx8JcFyHccvTlpng0H3wb4aATxeJq9lDSXoE/edit">Unix and the Zoo</a>
-		</li>
-		<li>
-			A cheat sheet written by former 223 ULAs about <a href="https://docs.google.com/document/d/173NNZNYXMC0bJuE2wzYOwsRK-OK3hcromkDOgpowt-I/edit">Using SFTP with Sublime Text</a>	
-		</li>
-	</ul>
+		<h3 id="clubs">
+			Computer Science Affiliated Clubs
+		</h3>
 
-	<h3>
-		Computer Science Affiliated Clubs
-	</h3>
+			<p>Code4Good: We work with local nonprofits and public agencies to pinpoint their most pressing technical needs and scope viable, sustainable student projects that address them. Additionally, we also want to change the way that techies think of the public sphere, so we’ll be holding talks, workshops, and other events aimed at doing this.</p>
 
-		<p>Code4Good: We work with local nonprofits and public agencies to pinpoint their most pressing technical needs and scope viable, sustainable student projects that address them. Additionally, we also want to change the way that techies think of the public sphere, so we’ll be holding talks, workshops, and other events aimed at doing this.</p>
+			<p>Code Haven: Code Haven is a Yale undergraduate student organization that teaches weekly computing lessons at middle schools, engaging students with online lessons, unplugged activities and class wide demonstrations. Code Haven also runs events related to computer science education to promote its mission outside the classroom. codehavenyale.com</p>
 
-		<p>Code Haven: Code Haven is a Yale undergraduate student organization that teaches weekly computing lessons at middle schools, engaging students with online lessons, unplugged activities and class wide demonstrations. Code Haven also runs events related to computer science education to promote its mission outside the classroom. codehavenyale.com</p>
-
-		<p>Float: Float is Yale’s undergraduate society for women and gender minorities in computer science. We organize events aimed at increasing the community within the computer science major as well as offer professional development opportunities with corporate partners. Another aspect of our organization is our technical workshops which aim to introduce members of the CS community to interesting new technologies and projects.</p>
+			<p>Float: Float is Yale’s undergraduate society for women and gender minorities in computer science. We organize events aimed at increasing the community within the computer science major as well as offer professional development opportunities with corporate partners. Another aspect of our organization is our technical workshops which aim to introduce members of the CS community to interesting new technologies and projects.</p>
 
 
-		<p>Sandbox: We’re team Sandbox, the club that ideates and implements student-created, student-run, technical solutions to real-world problems. By the end of the Spring 2019 semester, we aim to have Sandbox built and launched five beta-stage web or native applications, each addressing a well-defined issue. We’ll be learning and using a stack of new and hot technologies: React, Firebase, Redux, Git, Sketch, etc. We’ll also host industry speakers and pitch events.</p>
+			<p>Sandbox: We’re team Sandbox, the club that ideates and implements student-created, student-run, technical solutions to real-world problems. By the end of the Spring 2019 semester, we aim to have Sandbox built and launched five beta-stage web or native applications, each addressing a well-defined issue. We’ll be learning and using a stack of new and hot technologies: React, Firebase, Redux, Git, Sketch, etc. We’ll also host industry speakers and pitch events.</p>
 
-		<p>SheCode: SheCode (https://shecodeatyale.wordpress.com/) holds 3-4 weekend sessions per semester to teach New Haven middle and high school girls to code (Scratch, HTML/CSS, Python), inspiring them to explore their interests in computer science and STEM and creating a collaborative learning environment for new programmers with Yale CS majors serving as mentors and TAs.</p>
+			<p>SheCode: SheCode (https://shecodeatyale.wordpress.com/) holds 3-4 weekend sessions per semester to teach New Haven middle and high school girls to code (Scratch, HTML/CSS, Python), inspiring them to explore their interests in computer science and STEM and creating a collaborative learning environment for new programmers with Yale CS majors serving as mentors and TAs.</p>
 
-		<p>Thinkspaces: Empowers creators on campus. Provides a web-platform for people from disparate disciplines to connect, collaborate and build projects. Also hosts offline events like workshops and talks to facilitate great ideas.</p>
+			<p>Thinkspaces: Empowers creators on campus. Provides a web-platform for people from disparate disciplines to connect, collaborate and build projects. Also hosts offline events like workshops and talks to facilitate great ideas.</p>
 
-		<p>Yale Computer Society: The Yale Computer Society works on several projects throughout the year to improve the experience of students interested in technology and entrepreneurship at Yale. Typically we host talks, student or industry run workshops, and also hold career related events.</p>
+			<p>Yale Computer Society: The Yale Computer Society works on several projects throughout the year to improve the experience of students interested in technology and entrepreneurship at Yale. Typically we host talks, student or industry run workshops, and also hold career related events.</p>
 
-		<p>Yale Entrepreneurial Society: We organize speaker events, workshop series, trips and treks to NYC and Boston, mentorship program, and elevator pitch competitions to connect entrepreneurial-minded students with successful co-founders of startups and people in venture capital funds.</p>
+			<p>Yale Entrepreneurial Society: We organize speaker events, workshop series, trips and treks to NYC and Boston, mentorship program, and elevator pitch competitions to connect entrepreneurial-minded students with successful co-founders of startups and people in venture capital funds.</p>
 
-		<p>YUAA: The Yale Undergraduate Aerospace Association promotes and advances aerospace engineering through collaboration, innovation, and outreach. YUAA cultivates leaders who meet challenges with discipline and creativity.</p>
+			<p>YUAA: The Yale Undergraduate Aerospace Association promotes and advances aerospace engineering through collaboration, innovation, and outreach. YUAA cultivates leaders who meet challenges with discipline and creativity.</p>
 
-		<p>Yale Undergraduate Intelligent Vehicles: Yale InVe aims to engage and inspire talented Yale engineers through exciting autonomous unmanned vehicle competitions. From autonomous ground vehicles to robotic sailboats, members cultivate software, electrical, and mechanical skills while designing and implementing competitive systems.</p>
+			<p>Yale Undergraduate Intelligent Vehicles: Yale InVe aims to engage and inspire talented Yale engineers through exciting autonomous unmanned vehicle competitions. From autonomous ground vehicles to robotic sailboats, members cultivate software, electrical, and mechanical skills while designing and implementing competitive systems.</p>
 
-		<p>Yale Undergraduate Society of Engineers: SWE is an organization dedicated to creating a space for women and gender minorities in Yale's engineering department. Between our National Chapter, connection with the graduate SWE chapter, and other professional development and community opportunities, we strive to make engineering a welcoming place for all. Every year, we attend the National SWE conference which is the world’s largest conference for women in engineering.</p>
-
-	<!--#include virtual="/footer.shtml"-->
+			<p>Yale Undergraduate Society of Engineers: SWE is an organization dedicated to creating a space for women and gender minorities in Yale's engineering department. Between our National Chapter, connection with the graduate SWE chapter, and other professional development and community opportunities, we strive to make engineering a welcoming place for all. Every year, we attend the National SWE conference which is the world’s largest conference for women in engineering.</p>
+	</div>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.1.1/tocbot.min.js"></script>
+	<script type="text/javascript">
+		tocbot.init({
+			// Where to render the table of contents.
+			tocSelector: '.js-toc',
+			// Where to grab the headings to build the table of contents.
+			contentSelector: '.js-toc-content',
+			// Which headings to grab inside of the contentSelector element.
+			headingSelector: 'h1, h2, h3',
+			// How many heading levels should not be collpased.
+			// For example, number 6 will show everything since
+			// there are only 6 heading levels and number 0 will collpase them all.
+			// The sections that are hidden will open
+			// and close as you scroll to headings within them.
+			collapseDepth: 4,
+		});
+	</script>
 </body>
