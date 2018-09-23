@@ -81,7 +81,7 @@
         <div class="row">
           <div class="col-lg-8 mx-auto">
             <h2>Feedback</h2>
-            <p class="lead">Feel free to come to us with any concerns or questions that you might have as a CS student. You can email us at <a href="mailto:dsac@cs.yale.edu">dsac at cs dot yale dot edu</a> or sign up for a <a href="https://docs.google.com/forms/d/e/1FAIpQLSdAeX-PNz_AauQR9A03W5CgWtMHdJ4Ecq4WHlx0wr2Pi8XgPQ/viewform?usp=sf_link" target="_blank">coffee chat </a> (the coffee is on us!).</p>
+            <p class="lead">Feel free to come to us with any concerns or questions that you might have as a CS student. You can email us at <a href="mailto:dsac@yale.edu">dsac at yale dot edu</a> or sign up for a <a href="https://docs.google.com/forms/d/e/1FAIpQLSdAeX-PNz_AauQR9A03W5CgWtMHdJ4Ecq4WHlx0wr2Pi8XgPQ/viewform?usp=sf_link" target="_blank">coffee chat </a> (the coffee is on us!).</p>
           </div>
           <div class="col-lg-2 mx-auto">
             <img src="images/coffee.png" alt="Infographic" height="200" width="200"> 
