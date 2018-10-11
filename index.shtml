@@ -71,29 +71,29 @@ http://www.templatemo.com/tm-406-flex
                         <ul class="slides">
                             <li>
                                 <div class="overlay"></div>
-                                <img src="images/slide1.jpg" alt="">
+                                <img src="images/gallery/image1.png" alt="">
                                 <div class="slider-caption visible-md visible-lg">
                                     <h2>Yale Computer Science DSAC</h2>
                                     <p>Departmental Student Advisory Committee</p>
-                                    <a href="#" class="slider-btn">Give us feedback!</a>
+                                    <a href="#feedback" class="slider-btn">Give us feedback!</a>
                                 </div>
                             </li>
                             <li>
                                 <div class="overlay"></div>
-                                <img src="images/slide2.jpg" alt="">
+                                <img src="images/gallery/image2.png" alt="">
                                 <div class="slider-caption visible-md visible-lg">
                                     <h2>Yale Computer Science DSAC</h2>
                                     <p>Departmental Student Advisory Committee</p>
-                                    <a href="#" class="slider-btn">Go to Portfolio</a>
+                                    <a href="#feedback" class="slider-btn">Give us feedback!</a>
                                 </div>
                             </li>
                             <li>
                                 <div class="overlay"></div>
-                                <img src="images/slide3.jpg" alt="">
+                                <img src="images/gallery/image3.png" alt="">
                                 <div class="slider-caption visible-md visible-lg">
                                     <h2>Yale Computer Science DSAC</h2>
                                     <p>Departmental Student Advisory Committee</p>
-                                    <a href="#" class="slider-btn">Mobile Website</a>
+                                    <a href="#feedback" class="slider-btn">Give us feedback!</a>
                                 </div>
                             </li>
                         </ul>
