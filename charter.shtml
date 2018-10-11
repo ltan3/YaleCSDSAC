@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <title>DSAC Charter</title>
+    	<meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- 
+Flex Template 
+http://www.templatemo.com/tm-406-flex
+-->
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
+        
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/font-awesome.css">
+        <link rel="stylesheet" href="css/animate.css">
+        <link rel="stylesheet" href="css/templatemo_misc.css">
+        <link rel="stylesheet" href="css/templatemo_style.css">
+
+        <script src="js/vendor/modernizr-2.6.1-respond-1.1.0.min.js"></script>
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
+        <![endif]-->
+
+
+        <div class="content-section" id="services">
+            <div class="container">
+                <div class="row">
+                    <div class="heading-section col-md-12 text-center">
+                        <h1>DSAC Charter</h1>
+                        <br><br>
+                        <p>This  is  the  charter  of  the Departmental Student Advisory
+	                    Committee (DSAC) for the Yale Department of Computer Science.</p>
+                        <p>Revised March 28, 2018.</p>
+                    </div> <!-- /.heading-section -->
+                </div> <!-- /.row -->
+            </div> <!-- /.container -->
+        </div> <!-- /#services -->
+
+        <div class="content-section" id="portfolio">
+            <div class="container">
+                <div class="row">
+                    <div class="heading-section col-md-12 text-center">
+                        <h2>Purposes</h2>
+                        <br><br>
+                        <p>To  provide  representation  for  undergraduates  in  the
+                            Computer Science Department, that is,  to  provide  a  liason
+                            between   the  faculty  and  the  undergraduates  in  matters
+                            pertaining to the Computer Science curriculum and the majors'
+                            use of departmental resources.
+                        </p> 
+                        <p>To allocate those resources provided to Computer Science
+	                        majors and to oversee their use. </p> 
+                        <p> To act as an advisory board to the faculty  in  cases  of
+	                        violations  of  system  rules,  and  in other cases requiring
+	                        disciplinary actions. </p> 
+                        <p> To act as a forum for the discussion of issues of general
+	                        interest to users of departmental facilities. <p>
+                    </div> <!-- /.heading-section -->
+                </div> <!-- /.row -->
+            </div> <!-- /.container -->
+        </div> <!-- /#portfolio -->
+
+        <div class="content-section" id="our-team">
+            <div class="container">
+                <div class="row">
+                    <div class="heading-section col-md-12 text-center">
+                        <h2>Constitution</h2>
+                        <br><br>
+                        <p>A committee's tenure will last exactly one academic year.</p>
+                        <p>A committee will consist of 5 undergraduates who  satisfy
+	                        the  DSAC membership requirements as stated below.  They will
+	                        be chosen via the electoral process outlined below.</p>
+                        <p>There  will  be  no  hierarchical  organization  of   the
+	                        committee.  It will be a democratic body.</p>
+                    </div> <!-- /.heading-section -->
+                </div> <!-- /.row -->
+            </div> <!-- /.container -->
+        </div> <!-- /#our-team -->
+
+        <div class="content-section" id="our-team">
+            <div class="container">
+                <div class="row">
+                    <div class="heading-section col-md-12">
+                        <center><h2>Elections</h2></center>
+                        <br><br>
+                        <p>General elections are to be held in the spring  of  every
+	                        academic  year to select those undergraduates who will be the
+	                        DSAC for the following academic year.  Elections  are  to  be
+	                        run by one or more non-candidate members of the committee.</p>
+                        <p>Elections  will  be  open  to  all  students who meet the
+	                         membership requirements and will be conducted thus:</p> <br>
+                        <ul>
+                            <li>- The  names of the candidates will then be made public,
+                                and they  will  be  invited  to  make  their  campaign
+                                statements over a period of one week.</li>
+                            <li>- Voting  will  take place over a one-week period during
+                                which each voter will be  allowed  to  cast  a  ballot
+                                naming five candidates of his or her choice.</li>
+                            <li>- The five candidates with the highest vote counts will
+                                be the new DSAC.  Any ties will be broken by a run-off
+                                election.</li>
+                            <li>- If a candidate wishes to challenge the results, they must email
+                                dsac@yale.edu within 48 hours of the result announcement.</li>
+                        </ul> <br>
+                        <p>Soon after the elections, a meeting will be held for  all
+                            departing  and incoming members of DSAC, during which the new
+                            members will be initiated to the workings of the committee.</p>
+                        <p> If DSAC loses members,  a single spot  may be filled by a
+                            unanimous vote  of the other DSAC members.  If more positions
+                            need to be filled, a new round of elections must be held.</p>
+                    </div> <!-- /.heading-section -->
+                </div> <!-- /.row -->
+            </div> <!-- /.container -->
+        </div> <!-- /#our-team -->
+
+         <div class="content-section" id="our-team">
+            <div class="container">
+                <div class="row">
+                    <div class="heading-section col-md-12 text-center">
+                        <h2>Membership Requirements</h2>
+                        <br><br>
+                        <p>Completion of Computer Science 223 or any higher-numbered
+                           course in the major.</p>
+                </div> <!-- /.row -->
+            </div> <!-- /.container -->
+        </div> <!-- /#our-team -->
+
+        <div class="content-section" id="our-team">
+            <div class="container">
+                <div class="row">
+                    <div class="heading-section col-md-12 text-center">
+                        <h2>Amendments</h2>
+                        <br><br>
+                        <p>Any part of this document may be amended by the vote of 4
+	                        or more members.</p>
+                </div> <!-- /.row -->
+            </div> <!-- /.container -->
+        </div> <!-- /#our-team -->
+
+            
+        <div id="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8 col-xs-12 text-left">
+                       <a href="http://zoo.cs.yale.edu/dsac/" id="go-top">Back to Main Page</a> 
+                    </div> <!-- /.text-center -->
+                    <div class="col-md-4 hidden-xs text-right">
+                        <a href="#top" id="go-top">Back to top</a>
+                    </div> <!-- /.text-center -->
+                </div> <!-- /.row -->
+            </div>
+        </div> <!-- /#footer -->
+        
+        <script src="js/vendor/jquery-1.11.0.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.0.min.js"><\/script>')</script>
+        <script src="js/bootstrap.js"></script>
+        <script src="js/plugins.js"></script>
+        <script src="js/main.js"></script>
+
+        <!-- Google Map -->
+        <script src="http://maps.google.com/maps/api/js?sensor=true"></script>
+        <script src="js/vendor/jquery.gmap3.min.js"></script>
+        
+        <!-- Google Map Init-->
+        <script type="text/javascript">
+            jQuery(function($){
+                $('#map_canvas').gmap3({
+                    marker:{
+                        address: '37.769725, -122.462154' 
+                    },
+                        map:{
+                        options:{
+                        zoom: 15,
+                        scrollwheel: false,
+                        streetViewControl : true
+                        }
+                    }
+                });
+
+                /* Simulate hover on iPad
+                 * http://stackoverflow.com/questions/2851663/how-do-i-simulate-a-hover-with-a-touch-in-touch-enabled-browsers
+                 --------------------------------------------------------------------------------------------------------------*/ 
+                $('body').bind('touchstart', function() {});
+            });
+        </script>
+        <!-- templatemo 406 flex -->
+    </body>
+</html>
