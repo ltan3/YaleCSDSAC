@@ -38,6 +38,29 @@
                         <h1>DSAC Photo Album</h1>
                         <br><br><br>
                         <div class="col-md-6">
+                            <h3><b>DSAC 2018-2019</b></h3> 
+                            <p>October 12, 2018</p> <br>
+                        </div>
+                        <div class="col-md-6">
+                            <ul>
+                                <li>Annie Chen, ES '19 (she/her/hers)</li>
+                                <li>Jessica Ambrosio, JE '19 (she/her/hers)</li>
+                                <li>Yuxuan Ke, BR '19 (he/him/his)</li>
+                                <li>Emmett Chen-Ran, DC '20 (he/him/his)</li>
+                                <li>James Pastan, DC '19 (he/him/his)</li>
+                            </ul>
+                        </div>
+                        <div class="portfolio-item col-md-12 col-sm-6">
+                            <div class="portfolio-thumb">
+                                <br>
+                                <img src="images/gallery/dsac.2018-2019.jpg" alt="">
+                            </div> <!-- /.portfolio-thumb -->
+                        </div> <!-- /.portfolio-item -->
+                    </div> <!-- /.heading-section -->
+                </div> <!-- /.row -->
+                <div class="row">
+                    <div class="heading-section col-md-12 text-center">
+                        <div class="col-md-6">
                             <h3><b>DSAC 2017-2018</b></h3> 
                             <p>February 18, 2018</p> <br>
                         </div>
