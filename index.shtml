@@ -143,10 +143,10 @@
                         <h2>CS Clubs Events Calendar</h2>
                         <br>
                         <br>
-                        <p>The cs.dsac@yale.edu Google Calendar centralizes all the events that CS clubs at Yale organize.
+                        <p>The cs[dot]dsac[at]yale[dot]edu Google Calendar centralizes all the events that CS clubs at Yale organize.
 												Please utilize this resource to update the CS community on your group's activities, avoid scheduling conflicts,
 												and plan out event programming.</p>
-                        <p>To add an event to this calendar, invite cs.dsac@yale.edu to your Google Calendar event.</p>
+                        <p>To add an event to this calendar, invite cs[dot]dsac[at]yale[dot]edu to your Google Calendar event.</p>
                         <p>To view this calendar from your Google Calendar, click the "+ Google Calendar" button on the lower
 												right of the iframe. To view this calendar from your iCal, click 
 													<a href="https://calendar.google.com/calendar/ical/cs.dsac%40yale.edu/public/basic.ics">here</a>.</p>
@@ -167,7 +167,7 @@
                         <br>
                         <p class="lead">Feel free to come to us with any concerns or questions that you 
                             might have as a CS student. You can email us at 
-                            <a href="mailto:dsac@cs.yale.edu">dsac at cs dot yale dot edu</a> 
+                            dsac[at]cs[dot]yale[dot]edu</a> 
                             or you can hover your mouse on the images below to find out how you can communicate your thoughts to us. 
                     </div> <!-- /.heading-section -->
                 </div> <!-- /.row -->
